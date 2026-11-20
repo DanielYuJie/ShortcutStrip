@@ -1,0 +1,13 @@
+# 生成出来的个人资源，不入库
+skin/@Resources/Links/
+skin/@Resources/Badges/
+
+# 备份与临时文件
+*.bak
+*.bak-*
+*.tmp
+*.log
+
+# Windows 杂项
+Thumbs.db
+desktop.ini
